@@ -1,3 +1,9 @@
+# My Gallery
+
+## Camera and Equipments
+* Sony a6400
+* Sel1670
+
 # Gallery
 A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
 
