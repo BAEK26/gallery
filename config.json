@@ -1,21 +1,21 @@
 {
-  "Log": [],
-  "Travel Log": [
+  "A Travel Log": [
     {
       "width": 5801,
       "height": 3867,
-      "path": "./photos/Travel Log/Sight_at_Zaanse-Schans_Netherlands.jpg",
-      "compressed_path": "./photos/Travel Log/Sight_at_Zaanse-Schans_Netherlands.min.jpg",
+      "path": "./photos/A Travel Log/Sight_at_Zaanse-Schans_Netherlands.jpg",
+      "compressed_path": "./photos/A Travel Log/Sight_at_Zaanse-Schans_Netherlands.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Travel Log/Sight_at_Zaanse-Schans_Netherlands.placeholder.jpg"
+      "placeholder_path": "./photos/A Travel Log/Sight_at_Zaanse-Schans_Netherlands.placeholder.jpg"
     },
     {
       "width": 6000,
       "height": 4000,
-      "path": "./photos/Travel Log/Yellow_at_Nice_France.jpg",
-      "compressed_path": "./photos/Travel Log/Yellow_at_Nice_France.min.jpg",
+      "path": "./photos/A Travel Log/Yellow_at_Nice_France.jpg",
+      "compressed_path": "./photos/A Travel Log/Yellow_at_Nice_France.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Travel Log/Yellow_at_Nice_France.placeholder.jpg"
+      "placeholder_path": "./photos/A Travel Log/Yellow_at_Nice_France.placeholder.jpg"
     }
-  ]
+  ],
+  "Log": []
 }
