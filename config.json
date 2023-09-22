@@ -1,6 +1,38 @@
 {
   "A Travel Log": [
     {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/A Travel Log/DSC00107.jpg",
+      "compressed_path": "./photos/A Travel Log/DSC00107.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Travel Log/DSC00107.placeholder.jpg"
+    },
+    {
+      "width": 3907,
+      "height": 5860,
+      "path": "./photos/A Travel Log/DSC00109.jpg",
+      "compressed_path": "./photos/A Travel Log/DSC00109.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Travel Log/DSC00109.placeholder.jpg"
+    },
+    {
+      "width": 4675,
+      "height": 1558,
+      "path": "./photos/A Travel Log/DSC00591.jpg",
+      "compressed_path": "./photos/A Travel Log/DSC00591.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Travel Log/DSC00591.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/A Travel Log/DSC09767.jpg",
+      "compressed_path": "./photos/A Travel Log/DSC09767.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Travel Log/DSC09767.placeholder.jpg"
+    },
+    {
       "width": 5801,
       "height": 3867,
       "path": "./photos/A Travel Log/Sight_at_Zaanse-Schans_Netherlands.jpg",
