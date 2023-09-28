@@ -41,6 +41,46 @@
       "placeholder_path": "./photos/My Travel Log/DSC09767.placeholder.jpg"
     },
     {
+      "width": 3008,
+      "height": 2000,
+      "path": "./photos/My Travel Log/DSC5163.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC5163.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC5163.placeholder.jpg"
+    },
+    {
+      "width": 2000,
+      "height": 3008,
+      "path": "./photos/My Travel Log/DSC5300.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC5300.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC5300.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/My Travel Log/DSC5848.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC5848.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC5848.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/My Travel Log/DSC5928.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC5928.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC5928.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/My Travel Log/DSC5951.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC5951.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC5951.placeholder.jpg"
+    },
+    {
       "width": 5801,
       "height": 3867,
       "path": "./photos/My Travel Log/Sight_at_Zaanse-Schans_Netherlands.jpg",
@@ -55,46 +95,6 @@
       "compressed_path": "./photos/My Travel Log/Yellow_at_Nice_France.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/My Travel Log/Yellow_at_Nice_France.placeholder.jpg"
-    },
-    {
-      "width": 3008,
-      "height": 2000,
-      "path": "./photos/My Travel Log/_DSC5163.jpg",
-      "compressed_path": "./photos/My Travel Log/_DSC5163.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/My Travel Log/_DSC5163.placeholder.jpg"
-    },
-    {
-      "width": 2000,
-      "height": 3008,
-      "path": "./photos/My Travel Log/_DSC5300.jpg",
-      "compressed_path": "./photos/My Travel Log/_DSC5300.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/My Travel Log/_DSC5300.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 6000,
-      "path": "./photos/My Travel Log/_DSC5848.jpg",
-      "compressed_path": "./photos/My Travel Log/_DSC5848.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/My Travel Log/_DSC5848.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 6000,
-      "path": "./photos/My Travel Log/_DSC5928.jpg",
-      "compressed_path": "./photos/My Travel Log/_DSC5928.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/My Travel Log/_DSC5928.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 6000,
-      "path": "./photos/My Travel Log/_DSC5951.jpg",
-      "compressed_path": "./photos/My Travel Log/_DSC5951.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/My Travel Log/_DSC5951.placeholder.jpg"
     }
   ]
 }
