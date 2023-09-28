@@ -45,14 +45,14 @@ def get_min_path(path):
 
 
 def get_path(path, ext):
-    return re.sub(r'\.(png|jpe?g)$', '.' + ext + '.\g<1>', path)
+    return re.sub(r'\.(png|jpe?g|JPG)$', '.' + ext + '.\g<1>', path)
 
 
 def get_images(path):
     items = os.listdir(PHOTO_PATH + '/' + path)
     filtered_items = list(filter(is_original, items))
-    print(filtered_items)
-    print(items)
+    # print(filtered_items)
+    # print(items)
     result = []
     for img in filtered_items:
         width, height = 0, 0
@@ -70,7 +70,6 @@ def get_images(path):
             'compressed': has_compressed,
             'placeholder_path': get_placeholder_path(p)
         })
-        print(img)
     return result
 
 
