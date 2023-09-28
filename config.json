@@ -65,8 +65,8 @@
       "placeholder_path": "./photos/My Travel Log/_DSC5163.placeholder.jpg"
     },
     {
-      "width": 3008,
-      "height": 2000,
+      "width": 2000,
+      "height": 3008,
       "path": "./photos/My Travel Log/_DSC5300.jpg",
       "compressed_path": "./photos/My Travel Log/_DSC5300.min.jpg",
       "compressed": false,
