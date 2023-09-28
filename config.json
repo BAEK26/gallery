@@ -1,12 +1,11 @@
 {
-  "Log": [],
   "My Travel Log": [
     {
       "width": 6000,
       "height": 4000,
       "path": "./photos/My Travel Log/DSC00107.jpg",
       "compressed_path": "./photos/My Travel Log/DSC00107.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/My Travel Log/DSC00107.placeholder.jpg"
     },
     {
@@ -14,7 +13,7 @@
       "height": 5860,
       "path": "./photos/My Travel Log/DSC00109.jpg",
       "compressed_path": "./photos/My Travel Log/DSC00109.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/My Travel Log/DSC00109.placeholder.jpg"
     },
     {
@@ -22,7 +21,7 @@
       "height": 1558,
       "path": "./photos/My Travel Log/DSC00591.jpg",
       "compressed_path": "./photos/My Travel Log/DSC00591.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/My Travel Log/DSC00591.placeholder.jpg"
     },
     {
@@ -30,7 +29,7 @@
       "height": 6000,
       "path": "./photos/My Travel Log/DSC09767.jpg",
       "compressed_path": "./photos/My Travel Log/DSC09767.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/My Travel Log/DSC09767.placeholder.jpg"
     },
     {
@@ -38,7 +37,7 @@
       "height": 3867,
       "path": "./photos/My Travel Log/Sight_at_Zaanse-Schans_Netherlands.jpg",
       "compressed_path": "./photos/My Travel Log/Sight_at_Zaanse-Schans_Netherlands.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/My Travel Log/Sight_at_Zaanse-Schans_Netherlands.placeholder.jpg"
     },
     {
@@ -46,7 +45,7 @@
       "height": 4000,
       "path": "./photos/My Travel Log/Yellow_at_Nice_France.jpg",
       "compressed_path": "./photos/My Travel Log/Yellow_at_Nice_France.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/My Travel Log/Yellow_at_Nice_France.placeholder.jpg"
     }
   ]
