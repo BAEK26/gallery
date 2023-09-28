@@ -25,6 +25,14 @@
       "placeholder_path": "./photos/My Travel Log/DSC00591.placeholder.jpg"
     },
     {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/My Travel Log/DSC03004.JPG",
+      "compressed_path": "./photos/My Travel Log/DSC03004.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/My Travel Log/DSC03004.JPG"
+    },
+    {
       "width": 4000,
       "height": 6000,
       "path": "./photos/My Travel Log/DSC09767.jpg",

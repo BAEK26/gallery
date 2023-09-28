@@ -33,7 +33,7 @@ def get_directories():
 
 
 def is_image_path(path):
-    return re.search(r'\.(jpe?g|png)$', path)
+    return re.search(r'\.(jpe?g|png|JPG)$', path)
 
 
 def get_placeholder_path(path):
@@ -51,7 +51,8 @@ def get_path(path, ext):
 def get_images(path):
     items = os.listdir(PHOTO_PATH + '/' + path)
     filtered_items = list(filter(is_original, items))
-
+    print(filtered_items)
+    print(items)
     result = []
     for img in filtered_items:
         width, height = 0, 0
@@ -69,6 +70,7 @@ def get_images(path):
             'compressed': has_compressed,
             'placeholder_path': get_placeholder_path(p)
         })
+        print(img)
     return result
 
 
