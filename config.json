@@ -1,5 +1,22 @@
 {
+  "Log": [],
   "My Travel Log": [
+    {
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/My Travel Log/DSC00059.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC00059.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC00059.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/My Travel Log/DSC00082.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC00082.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC00082.placeholder.jpg"
+    },
     {
       "width": 6000,
       "height": 4000,
@@ -79,6 +96,14 @@
       "compressed_path": "./photos/My Travel Log/DSC5951.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/My Travel Log/DSC5951.placeholder.jpg"
+    },
+    {
+      "width": 5782,
+      "height": 3252,
+      "path": "./photos/My Travel Log/DSC7483.jpg",
+      "compressed_path": "./photos/My Travel Log/DSC7483.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/My Travel Log/DSC7483.placeholder.jpg"
     },
     {
       "width": 5801,
